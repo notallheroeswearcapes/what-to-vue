@@ -1,6 +1,6 @@
 # what-to-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This is an example application to showcase Vue.js with TypeScript and Vite.
 
 ## Recommended IDE Setup
 
